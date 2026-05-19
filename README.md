@@ -22,7 +22,7 @@ Interactive Tableau dashboard analyzing customer revenue trends, business perfor
 - Profitability analysis visuals
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](Dashboard 1.png)
 
 ## Live Dashboard
 [View on Tableau Public](https://public.tableau.com/app/profile/jeremy.dade/viz/CustomerRevenuePerformanceDashboard_17781818423250/Dashboard1)
